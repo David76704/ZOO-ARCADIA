@@ -6,7 +6,7 @@
     
     <form action="#" method="post">
       <fieldset>
-       <label for "name">Nom:</label>l
+       <label for "name">Nom:</label>
        <input type ="text" id="name" placeholder="Entrez votre nom"/>
        <label for ="email">Email:</label>
        <input type ="email" id="email" placeholder="Entre votre adresse mail"/>
