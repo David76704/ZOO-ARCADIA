@@ -40,9 +40,9 @@
                 text-transform :uppercase;
                 text-shadow:0px -1 0px #334f71;
                 }
-                
-               ]
-              w
+       input:-webkit-input-placeholder{         
+               
+              
                 
                
     </style>
