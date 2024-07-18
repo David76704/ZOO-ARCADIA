@@ -10,6 +10,11 @@
        border:0;
        outline :none;
        }
+      body{
+        background: 728eaa;
+        background: -moz-linear-gradient(top, #25303c 0%,#728EAA 100%);
+        background: -webkit-gradient(linear,left top,left bottom,color stop (100%,#728``
+                                     
     </style>
     <form action="#" method="post">
       <fieldset>
