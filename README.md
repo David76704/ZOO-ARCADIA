@@ -26,11 +26,21 @@
                ]
       Input  {  width:260 px;
                 height:35 px;
-                padding:5px 20px @ px 20px;
-                background: #c9d0de;
+                padding:5px 20px 0px 20px;
+                margin: 0 0 20px 0;
+                background: #5E768D;
                 border:1px solid #e1e1e1;
-                -moz-box-shadow 0px 0 px 0px #444;
-                -webkit-box-shadow 0px 0 px 0px #444;
+                -moz-border-radius:5px; 
+                -webkit-border-radius 0px 1px 0px #f2f2f2;
+                -moz-box-shadow 0px 0 px 0px #f2f2f2;
+                -webkit-box-shadow 0px 1px 0px #f2f2f2;
+                font-family :sans-serif;
+                font-size:16 px;
+                color:"f2f2f2;
+                text-transform :uppercase;
+                text-shadow:0px -1 0px #334f71;
+                }
+                
                ]
               w
                 
