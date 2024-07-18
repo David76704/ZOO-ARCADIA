@@ -1,6 +1,11 @@
 <html>
-
-<li>
+  <head>
+  <style>
+  body{background-color: green};
+  </style>
+  </head>
+  <body>
+   <li>
   Page d'accueil 
 
 </li>
@@ -12,5 +17,9 @@
  </li>
  <li>
    Contact
- </li>
+ </li>   
+  </body>
 </html>
+
+
+
