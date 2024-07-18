@@ -6,14 +6,19 @@
     <form action="#" method="post">
       <fieldset>
        <label for "name">Nom:</label>l
-       <input type ="text" id="name" placeholder="Entre votre nom"/>
+       <input type ="text" id="name" placeholder="Entrez votre nom"/>
        <label for ="email">Email:</label>
        <input type ="email" id="email" placeholder="Entre votre adresse mail"/>
        <label for ="message">Message:</label>
-       <textarea id "message" placeholder="Quelles sont vos suggestions"
+       <textarea id "message" placeholder="Quelles sont vos suggestions"></textarea>
+       <input type ="submit"value ="Envoyez un message" />
+      </fieldset>
+    </form>
+  </div>
+  </html>
        
 
         
-      </fieldset>
-</html>
+      
+
 
