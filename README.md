@@ -27,8 +27,24 @@
 
 <br></br>
 <h4>Vétérinaire</h4>
+<p>
+  <label for ="name">Nom</label>
+  <input id ="name" type="text"/> 
+</p> 
+<p>
+    <label for ="password">Mot de passe</label>
+  <input id ="password" type="password/> 
+</p>
 <br></br>
 <h4>Employé</h4>
+ <p>
+  <label for ="name">Nom</label>
+  <input id ="name" type="text"/> 
+</p> 
+<p>
+    <label for ="password">Mot de passe</label>
+  <input id ="password" type="password/> 
+</p>   
 <br></br>
 </html>
 
