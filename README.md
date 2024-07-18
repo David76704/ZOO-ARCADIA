@@ -1,16 +1,15 @@
 <html>
 
 <li>
-  Page d'accueil 
+  Visite gratuite du ZOO
+  avec Michel votre guide
 
 </li>
  <li>
- Services
+ Visite du ZOO en petit train
  </li>
  <li>
-  Accés aux habitats  
+  Restaurants
  </li>
- <li>
-   Contact
- </li>
+ 
 </html>
