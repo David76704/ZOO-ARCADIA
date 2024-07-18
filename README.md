@@ -15,7 +15,17 @@
         background: -moz-linear-gradient(top, #25303c 0%,#728EAA 100%);
         background: -webkit-gradient(linear,left top,left bottom,color stop (100%,#728EAA));
         font- family :sans-serif;`
-                                     
+        }
+      #contact{ width:430 px;
+                margin:60 px auto;
+                padding:60px 30px;
+                background: #c9d0de;
+                border:1px solid #e1e1e1;
+                -moz-box-shadow 0px 0 px 0px #444;
+                -webkit-box-shadow 0px 0 px 0px #444;
+      
+                
+               
     </style>
     <form action="#" method="post">
       <fieldset>
