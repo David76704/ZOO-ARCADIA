@@ -13,7 +13,8 @@
       body{
         background: 728eaa;
         background: -moz-linear-gradient(top, #25303c 0%,#728EAA 100%);
-        background: -webkit-gradient(linear,left top,left bottom,color stop (100%,#728``
+        background: -webkit-gradient(linear,left top,left bottom,color stop (100%,#728EAA));
+        font- family :sans-serif;`
                                      
     </style>
     <form action="#" method="post">
