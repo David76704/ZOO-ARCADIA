@@ -1,16 +1,12 @@
 <html>
-<header>
-  HABITATS
-</header>
-<li>
-  Jungle
-</li>
- <li>
- Savane 
- </li>
- <li>
- Marais
- </li>
+<p>
+VOTRE AVIS NOUS INTERRSSE
+</p>
+
+
+ <p>
+ Ajoutez un commentaire 
+ </p>
  
 </html>
 
