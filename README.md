@@ -4,7 +4,12 @@
 <p>
   <label for ="name">Nom</label>
   <input id ="name" type="text"/> 
-  
+</p> 
+<p>
+    <label for ="password">Mot de passe</label>
+  <input id ="password" type="password/> 
+</p>
+ <p>   
   input[type=text],
   input[type=password]{
   background: rgba(255,255,255,0.9);
