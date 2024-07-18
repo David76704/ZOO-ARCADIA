@@ -1,7 +1,8 @@
 <html>
-<nav>
+
+<article>
   Découvrir les animaux et leurs habitats 
   (Jungle ,Savane ,Marais)
-</nav>
+</article>
   
 </html>
