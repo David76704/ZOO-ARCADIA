@@ -1,15 +1,17 @@
 <html>
-
+<header>
+  HABITATS
+</header>
 <li>
-  Visite gratuite du ZOO
-  avec Michel votre guide
-
+  Jungle
 </li>
  <li>
- Visite du ZOO en petit train
+ Savane 
  </li>
  <li>
-  Restaurants
+ Marais
  </li>
  
 </html>
+
+
