@@ -1,1 +1,7 @@
-background-image:url ("‪C:\Users\Jacques ATTAL\Desktop\Logo Elephant.jpg");
+<html>
+<nav>
+  Découvrir les animaux et leurs habitats 
+  (Jungle ,Savane ,Marais)
+</nav>
+  
+</html>
