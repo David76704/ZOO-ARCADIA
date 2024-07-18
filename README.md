@@ -9,6 +9,8 @@
        <input type ="text" id="name" placeholder="Entre votre nom"/>
        <label for ="email">Email:</label>
        <input type ="email" id="email" placeholder="Entre votre adresse mail"/>
+       <label for ="message">Message:</label>
+       <textarea id "message" placeholder="Quelles sont vos suggestions"
        
 
         
