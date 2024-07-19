@@ -179,6 +179,10 @@ input[type=submit]{
     <div id="contact">
      <h1>Envoie un message</h1>
         
+        
+        
+        
+  <body>
       
     <form action="#" method="post">
       <fieldset>
@@ -192,8 +196,10 @@ input[type=submit]{
       </fieldset>
     </form>
   </div>
+    <script src="script.js"></script>
+</body>
  
-  
+  </html>
      
        
        
