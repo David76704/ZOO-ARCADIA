@@ -6,18 +6,17 @@
   <meta name="viewport" content="width=device-width">
  
   <link href="style.css" rel="stylesheet" type="text/css" />
+  
+</head>
+
+<body>
   <style>
      html{
        height: 100%;
        width: 100%;
        background-image: linear-gradient(green,cyan 40%,blue);
-
-
-     }
- </style>
-</head>
-
-<body>
+       }
+     </style>
 
    <form id ="start" action="/">
    <h1>Employé</h1>
