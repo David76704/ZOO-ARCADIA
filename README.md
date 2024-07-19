@@ -5,8 +5,8 @@
   <style>
     h3{ color:black;
        }
-   background-image:url("‪C:\Users\Jacques ATTAL\Desktop\Logo Elephant.jpg")
-      
+    body {  background-image:url("‪C:\Users\Jacques ATTAL\Desktop\Logo Elephant.jpg");
+         }
   </style>
 </head>
   
