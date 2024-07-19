@@ -14,7 +14,7 @@
 html {
   height: 100%;
   width: 100%;
-  
+ background-image: linear-gradient(green,cyan 40%,blue) ;
 }
  
   
@@ -176,14 +176,14 @@ input[type=submit]{
 </style>
 </head>
 
-    <div id="contact">
-     <h1>Envoie un message</h1>
-        
+ 
         
         
         
   <body>
-      
+        <div id="contact">
+     <h1>Envoie un message</h1>
+         
     <form action="#" method="post">
       <fieldset>
         <label for "name">Nom:</label>
