@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width">
  
   <link href="style.css" rel="stylesheet" type="text/css" />
-  <style="text/css">
+  <style>
      html {
        height: 100%;
        width: 100%;
