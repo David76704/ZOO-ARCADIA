@@ -10,7 +10,16 @@
   <meta name="viewport" content="width=device-width">
    <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
-  <style type="text/css">
+</head>
+
+ 
+        
+        
+        
+  <body>
+     <style>
+      
+  
 html {
   height: 100%;
   width: 100%;
@@ -173,14 +182,8 @@ input[type=submit]{
   background: -webkit-gradient(linear,left top ,left bottom,color-stop(0%,718DA9),color-stop(100%,#415D79));
   cursor:pointer;
 }
-</style>
-</head>
-
- 
-        
-        
-        
-  <body>
+   
+     </style> 
         <div id="contact">
      <h1>Envoie un message</h1>
          
