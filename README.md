@@ -175,7 +175,7 @@ input[type=submit]{
 }
 </style>
 </head>
-
+<body>
     <div id="contact">
     <h1>Envoie un message</h1>
     <form action="#" method="post">
