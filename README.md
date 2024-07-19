@@ -1,34 +1,49 @@
+<!DOCTYPE html>
 <html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
  
- <form id ="start" action="/">
- <h1>Employé</h1>
- <p>
-  <label for ="name">Nom</label>
-  <input id = "name"type="text" />
- </p>
-  <p>
-   <label for ="password">Mot de passe</label>
-  <input id = "password"type="password" />
-  </p>
-  <h1> Vétérinaire</h1>
- <p>
-  <label for ="name">Nom</label>
-  <input id = "name"type="text" />
- </p>
-  <p>
-   <label for ="password">Mot de passe</label>
-  <input id = "password"type="password" />
-  </p>
- </form>
- 
- input[type=text]:focus,
-  input[type=password]:focus{ border-color:#093c75;
- -moz-box-shadow:0 0 3px #0459b7;
- -webkit-box-shadow:0 0 3px #0459b7;
- outline:none;}
- 
- 
-</html>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <style="text/css">
+     html {
+       height: 100%;
+       width: 100%;
+       background-image: linear-gradient(green,cyan 40%,blue);
 
+
+     }
+ </style>
+</head>
+
+<body>
+
+   <form id ="start" action="/">
+   <h1>Employé</h1>
+   <p>
+    <label for ="name">Nom</label>
+    <input id = "name"type="text" />
+   </p>
+    <p>
+     <label for ="password">Mot de passe</label>
+    <input id = "password"type="password" />
+    </p>
+    <h1> Vétérinaire</h1>
+   <p>
+    <label for ="name">Nom</label>
+    <input id = "name"type="text" />
+   </p>
+    <p>
+     <label for ="password">Mot de passe</label>
+    <input id = "password"type="password" />
+    </p>
+   </form>
+
+   
+
+  
+</body>
+
+</html>
 
