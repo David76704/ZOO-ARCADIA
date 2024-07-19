@@ -15,7 +15,7 @@
        
        background-image: linear-gradient(green,cyan 40%,blue);
        }
-       p{font-size:9px;
+       p{;
        }
      </style>
 
