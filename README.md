@@ -1,7 +1,7 @@
 <html>
   <head>
   <style>
-     background {url = "https://cdn.pixabay.com/photo/2022/03/31/14/09/gay-7103100_960_720.png"}
+   .b4 {background-image:linear-gradient(green,cyan 40%,blue);}
   </style>
   </head>
   <body>
