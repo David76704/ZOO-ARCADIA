@@ -3,7 +3,32 @@
      <h1>CONTACT</h1>
     <br></br>
     <h3>Envoyez un message,une suggestion,une idée.</h3>
-       <style>
+       
+                
+  </head>
+
+
+  <body>
+    <div id ="contact">
+                
+              
+                
+               
+  
+    <form action="#" method="post">
+      <fieldset>
+       <label for "name">Nom:</label>
+       <input type ="text" id="name" placeholder="Entrez votre nom"/>
+       <label for ="email">Email:</label>
+       <input type ="email" id="email" placeholder="Entre votre adresse mail"/>
+       <label for ="message">Message:</label>
+          <textarea id "message" placeholder="Quelles sont vos suggestions"></textarea>
+       <input type ="submit"value ="Envoyez un message" />
+      </fieldset>
+    </form>
+  </div>
+  </body>
+ <style>
      body,div,h1,formfieldset,input,textarea {
        margin:0;
        padding;0;
@@ -81,31 +106,6 @@
     text-shadow:0px -1px 0px #38506b;
     }           
      </style>          
- 
-                
-  </head>
-
-
-  <body>
-    <div id ="contact">
-                
-              
-                
-               
-  
-    <form action="#" method="post">
-      <fieldset>
-       <label for "name">Nom:</label>
-       <input type ="text" id="name" placeholder="Entrez votre nom"/>
-       <label for ="email">Email:</label>
-       <input type ="email" id="email" placeholder="Entre votre adresse mail"/>
-       <label for ="message">Message:</label>
-          <textarea id "message" placeholder="Quelles sont vos suggestions"></textarea>
-       <input type ="submit"value ="Envoyez un message" />
-      </fieldset>
-    </form>
-  </div>
-  </body>
  
   </html>
        
