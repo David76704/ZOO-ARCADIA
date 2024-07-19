@@ -56,7 +56,7 @@
                 background: #5E768D;
                 background: -moz-linear-gradient(top,#546A7F 0%,#5E768D  20%)
                 background: #5E768D;
-                
+                background:-moz-linear-gradient(top,#546A7F 0%,#5E768D 
                 border:1px solid #e1e1e1;
                 -moz-border-radius:5px; 
                 -webkit-border-radius 0px 1px 0px #f2f2f2;
