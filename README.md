@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
 
-<h4>Administrateur</h4>
+<h4>ADMINISTRATEUR</h4>
 <p>
   <label for ="name">Nom</label>
   <input id ="name" type="text"/> 
@@ -11,7 +12,7 @@
 </p>
 
 <br></br>
-<h4>Vétérinaire</h4>
+<h4>VETERINAIRE</h4>
 <p>
   <label for ="name">Nom</label>
   <input id ="name" type="text"/> 
@@ -22,7 +23,7 @@
 </p>
     
 <br></br>
-<h4>Employé</h4>
+<h4>EMPLOYE</h4>
  <p>
   <label for ="name">Nom</label>
   <input id ="name" type="text"/> 
