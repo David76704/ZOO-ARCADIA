@@ -1,6 +1,22 @@
 <!DOCTYPE html>
-<html>
+< html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  
+   
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <style type="text/css">
+     html {
+       height: 100%;
+       width: 100%;
+       background-image: linear-gradient(green,cyan 40%,blue);
+           }
+
+    
+  </style>
+</head>
 <h4>ADMINISTRATEUR</h4>
 <p>
   <label for ="name">Nom</label>
