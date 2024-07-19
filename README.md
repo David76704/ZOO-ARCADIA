@@ -184,7 +184,7 @@ input[type=submit]{
   cursor:pointer;
 }
     </style> 
-    
+    </body>
         <div id="contact">
      <h1>Envoie un message</h1>
          
@@ -201,7 +201,7 @@ input[type=submit]{
     </form>
   </div>
   
-</body>
+
  
   </html>
      
