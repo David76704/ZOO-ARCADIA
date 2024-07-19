@@ -3,7 +3,7 @@
   <style>
     h3{ color:black;
        }
-   body{background-color: cyan ;}
+   body{background-color:cyan ;}
       
   </style>
 </head>
