@@ -48,17 +48,16 @@
          text-shadow:0px -1px 0px #38505b;
         }
 
-  
+
      Textarea   {  width:260 px;
                 height:170 px;
                 padding:12px 20px 0px 20px;
                 margin: 0 0 20px 0;
                 background: #5E768D;
                 background: -moz-linear-gradient(top,#546A7F 0%,#5E768D  20%)
-                background: #5E768D;
-                background:-moz-linear-gradient(top,#546A7F 0%,#5E768D 
+                background:-webkit-gradient(linear,left top,left bottom,color-stop(20%,#5768D);
                 border:1px solid #e1e1e1;
-                -moz-border-radius:5px; 
+                border-radius:5px; 
                 -webkit-border-radius 0px 1px 0px #f2f2f2;
                 -moz-box-shadow 0px 0 px 0px #f2f2f2;
                 -webkit-box-shadow 0px 1px 0px #f2f2f2;
@@ -68,6 +67,10 @@
                 text-transform :uppercase;
                 text-shadow:0px -1 0px #334f71;
                 }
+  
+                
+             
+              
               
                 
                
