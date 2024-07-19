@@ -1,5 +1,5 @@
+<!DOCTYPE html>
 <html>
-
     
       <head>
        <h1>CONTACT</h1>
@@ -10,7 +10,7 @@
 
   <meta name="viewport" content="width=device-width">
    <title>replit</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="style.css">
 </head>
 
  
@@ -183,8 +183,8 @@ input[type=submit]{
   background: -webkit-gradient(linear,left top ,left bottom,color-stop(0%,718DA9),color-stop(100%,#415D79));
   cursor:pointer;
 }
-   
-     </style> 
+    </style> 
+    
         <div id="contact">
      <h1>Envoie un message</h1>
          
