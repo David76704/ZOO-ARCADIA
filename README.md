@@ -67,8 +67,15 @@
                 text-transform :uppercase;
                 text-shadow:0px -1 0px #334f71;
                 }
-  
                 
+    textarea:-webkit-input-placeholder{
+    color:#a1b2c3;
+    text-shadow:0px -1px 0px #38506b;
+    }
+     textarea:-moz-placeholder{
+    color:#a1b2c3;
+    text-shadow:0px -1px 0px #38506b;
+    }           
              
               
               
