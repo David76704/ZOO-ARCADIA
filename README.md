@@ -1,5 +1,5 @@
 <html>
-  <head>
+
     
      <h1>CONTACT</h1>
     <br></br>
@@ -10,6 +10,7 @@
   <meta name="viewport" content="width=device-width">
    <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+  <style type="text/css">
 html {
   height: 100%;
   width: 100%;
@@ -172,8 +173,24 @@ input[type=submit]{
   background: -webkit-gradient(linear,left top ,left bottom,color-stop(0%,718DA9),color-stop(100%,#415D79));
   cursor:pointer;
 }
+</style>
+</head>
 
-
+    <div id="contact">
+    <h1>Envoie un message</h1>
+    <form action="#" method="post">
+      <fieldset>
+        <label for "name">Nom:</label>
+        <input type="text" id="name" placeholder="Entrez votre nom" />
+        <label for="email">Email:</label>
+        <input type="email" id="email" placeholder="Entre votre adresse mail" />
+        <label for="message">Message:</label>
+        <textarea id "message" placeholder="Quelles sont vos suggestions"></textarea>
+        <input type="submit" value="Envoyez un message" />
+      </fieldset>
+    </form>
+  </div>
+  </body>
   
      
        
@@ -182,7 +199,7 @@ input[type=submit]{
 
                
  
-  </body>
+
              
   </html>
        
