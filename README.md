@@ -9,7 +9,7 @@
          <meta charset="utf-8">
 
   <meta name="viewport" content="width=device-width">
-   <title>replit</title>
+   <title>Replit</title>
   <link href="style.css">
 </head>
 
