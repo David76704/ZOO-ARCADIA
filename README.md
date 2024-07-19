@@ -80,14 +80,15 @@
     }           
       background: #c9d0de;
                 border:1px solid #e1e1e1;
-       </style>          
- 
+   </style>          
+     </head>
                 
-  </head>
 
+   body{ background-image: linear-gradient(green,cyan 40%,blue);}
+    <div id ="contact">
 
   <body>
-    <div id ="contact">
+   
                 
               
                 
