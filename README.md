@@ -13,14 +13,14 @@
       body{
         background: 728eaa;
         background: -moz-linear-gradient(top, #25303c 0%,#728EAA 100%);
-     
+         }
        
       #contact{ width:430 px;
                 margin:60 px auto;
                 padding:60px 30px;
                -moz-box-shadow 0px 0 px 0px #444;
                 -webkit-box-shadow 0px 0 px 0px #444;
-               ]
+               }
       Input  {  width:260 px;
                 height:35 px;
                 padding:5px 20px 0px 20px;
