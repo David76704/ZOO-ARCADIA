@@ -1,8 +1,12 @@
 <html>
-  <div id ="contact">
-    <h1>CONTACT</h1>
+  <head>
+     <h1>CONTACT</h1>
     <br></br>
     <h3>Envoyez un message,une suggestion,une idée.</h3>
+    
+  </head>
+  <div id ="contact">
+   
     
     <style>
      body,div,h1,formfieldset,input,textarea {
