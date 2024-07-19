@@ -3,12 +3,7 @@
      <h1>CONTACT</h1>
     <br></br>
     <h3>Envoyez un message,une suggestion,une idée.</h3>
-    
-  </head>
-  <div id ="contact">
-   
-    
-    <style>
+       <style>
      body,div,h1,formfieldset,input,textarea {
        margin:0;
        padding;0;
@@ -21,6 +16,7 @@
         background: -webkit-gradient(linear,left top,left bottom,color stop (100%,#728EAA));
         font- family :sans-serif;`
         }
+       
       #contact{ width:430 px;
                 margin:60 px auto;
                 padding:60px 30px;
@@ -39,7 +35,13 @@
                 -webkit-border-radius 0px 1px 0px #f2f2f2;
                 -moz-box-shadow 0px 0 px 0px #f2f2f2;
                 -webkit-box-shadow 0px 1px 0px #f2f2f2;
-                font-family :sans-serif;
+                font-family :sans-serif;  
+                
+  </head>
+  <div id ="contact">
+   
+    
+ 
                 font-size:16 px;
                 color:"f2f2f2;
                 text-transform :uppercase;
