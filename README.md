@@ -3,6 +3,7 @@
     <h1>CONTACT</h1>
     <br></br>
     <h3>Envoyez un message,une suggestion,une idée.</h3>
+    
     <style>
      body,div,h1,formfieldset,input,textarea {
        margin:0;
@@ -76,12 +77,12 @@
     color:#a1b2c3;
     text-shadow:0px -1px 0px #38506b;
     }           
-             
+     </style>          
               
               
                 
                
-    </style>
+  
     <form action="#" method="post">
       <fieldset>
        <label for "name">Nom:</label>
