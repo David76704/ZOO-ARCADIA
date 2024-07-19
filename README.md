@@ -1,10 +1,11 @@
 <html>
 
     
-     <h1>CONTACT</h1>
+      <head>
+       <h1>CONTACT</h1>
     <br></br>
     <h3>Envoyez un message,une suggestion,une idée.</h3>
-      <head>
+    
          <meta charset="utf-8">
 
   <meta name="viewport" content="width=device-width">
@@ -20,15 +21,15 @@
      <style>
       
   
-html {
+html{
   height: 100%;
   width: 100%;
  background-image: linear-gradient(green,cyan 40%,blue) ;
-}
+    }
  
   
-}
-body,div,h1,formfieldset,input,textarea {
+
+body,div,h1,formfieldset,input,textarea{
    margin:0;
    padding;0;
    border:0;
@@ -64,7 +65,7 @@ label{
   color:#445668
 }
 
-Input  {  width:260 px;
+      Input    {width:260 px;
           height:35 px;
           padding:5px 20px 0px 20px;
           margin: 0 0 20px 0;
@@ -116,7 +117,7 @@ text-shadow:0px -1px 0px #38505b;
 
 
 
-Textarea   {  width:260 px;
+Textarea{  width:260 px;
 height:170 px;
 padding:12px 20px 0px 20px;
 margin: 0 0 20px 0;
@@ -199,7 +200,7 @@ input[type=submit]{
       </fieldset>
     </form>
   </div>
-    <script src="script.js"></script>
+  
 </body>
  
   </html>
