@@ -7,7 +7,7 @@
  
   <link href="style.css" rel="stylesheet" type="text/css" />
   <style>
-     html {
+     html{
        height: 100%;
        width: 100%;
        background-image: linear-gradient(green,cyan 40%,blue);
