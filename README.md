@@ -12,9 +12,10 @@
 <body>
   <style>
      html{
-       height: 100%;
-       width: 100%;
+       
        background-image: linear-gradient(green,cyan 40%,blue);
+       }
+       p{font-size:89px;
        }
      </style>
 
