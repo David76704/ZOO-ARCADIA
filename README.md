@@ -35,11 +35,8 @@
                 -webkit-border-radius 0px 1px 0px #f2f2f2;
                 -moz-box-shadow 0px 0 px 0px #f2f2f2;
                 -webkit-box-shadow 0px 1px 0px #f2f2f2;
-                font-family :sans-serif;  
+                font-family :sans-serif; 
                 
-  </head>
-  <div id ="contact">
-   
     
  
                 font-size:16 px;
@@ -84,7 +81,14 @@
     text-shadow:0px -1px 0px #38506b;
     }           
      </style>          
-              
+ 
+                
+  </head>
+
+
+  <body>
+    <div id ="contact">
+                
               
                 
                
@@ -101,6 +105,8 @@
       </fieldset>
     </form>
   </div>
+  </body>
+ 
   </html>
        
       
