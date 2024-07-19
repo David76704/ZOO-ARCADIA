@@ -32,23 +32,24 @@
                 -moz-box-shadow 0px 0 px 0px #f2f2f2;
                 -webkit-box-shadow 0px 1px 0px #f2f2f2;
                 font-family :sans-serif; 
-                   background: -webkit-gradient(linear,left top,left bottom,color stop (100%,#728EAA));
-        font- family :sans-serif;`
-        }
-    
- 
+                background: -webkit-gradient(linear,left top,left bottom,color stop (100%,#728EAA));
+                font- family :sans-serif;`
                 font-size:16 px;
                 color:"f2f2f2;
                 text-transform :uppercase;
                 text-shadow:0px -1 0px #334f71;
-                }
+              }
+ 
+               
+                
        input:-webkit-input-placeholder{ color:a1b2c3;
                                        text-shadow:0px -1px 0px #38505b;
                                        }
-      input:-moz-placeholder{
-        color:#a1b2c3;
+                 input:-moz-placeholder{ color:#a1b2c3;
          text-shadow:0px -1px 0px #38505b;
-        }
+                                       }
+       
+       
 
 
      Textarea   {  width:260 px;
@@ -70,10 +71,10 @@
                 text-shadow:0px -1 0px #334f71;
                 }
                 
-    textarea:-webkit-input-placeholder{
-    color:#a1b2c3;
-    text-shadow:0px -1px 0px #38506b;
-    }
+    textarea:-webkit-input-placeholder{ color:#a1b2c3;
+    text-shadow:0px -1px 0px #38506b;}
+   
+   
      textarea:-moz-placeholder{
     color:#a1b2c3;
     text-shadow:0px -1px 0px #38506b;
@@ -84,9 +85,7 @@
      </head>
                 
 
-   body{ background-image: linear-gradient(green,cyan 40%,blue);}
-    <div id ="contact">
-
+  
   <body>
    
                 
