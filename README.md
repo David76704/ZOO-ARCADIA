@@ -1,21 +1,13 @@
 <!DOCTYPE html>
-< html>
+<html>
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   
    
-  <link href="style.css" rel="stylesheet" type="text/css" />
-  <style type="text/css">
-     html {
-       height: 100%;
-       width: 100%;
-       background-image: linear-gradient(green,cyan 40%,blue);
-           }
+  <link href="css/styles.css">
 
-    
-  </style>
 </head>
 <h4>ADMINISTRATEUR</h4>
 <p>
@@ -49,7 +41,7 @@
   <input id ="password" type="password/> 
 </p>   
 <br></br>
-</html>
+
 
  <p>   
   input[type=text],
@@ -66,4 +58,15 @@
   padding:5px;
   
 </p>
+<body>
+<style>
+    html{
+       height: 100%;
+       width: 100%;
+       background-image: linear-gradient(green,cyan 40%,blue);
+       }
 
+    
+</style>
+</body>
+</html>
