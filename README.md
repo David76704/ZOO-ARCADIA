@@ -35,11 +35,7 @@ br  {
 
 
   <p>ZOO ARCADIA</p> 
-  <figure>
-    <ol>
 
-     
-  </figure>
  
 </body>
 
