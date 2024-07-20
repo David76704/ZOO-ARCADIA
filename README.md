@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   
   <title>replit</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="simple.css" rel="stylesheet" type="text/css" />
 
   html {
   height: 100%;
