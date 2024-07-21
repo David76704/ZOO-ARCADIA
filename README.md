@@ -75,7 +75,7 @@ INSERT INTO users ( name,  password)
 VALUES ('jean_dupont', 'Jean', 'Dupont', 'jean.dupont@example.com', '$2y$10$hv2m6oFnpMs6sZmpyNK1r.iWEJO/CU96h7b95VjYCC5Msw.lGdn8G');
 INSERT INTO users ( name,  password)
 
-VALUES ('Danièle-Atlan', 'Daniele', 'Atlan', 'Danièle Atlan@example.com', '$2y$10$hv2m6oFnpMs6sZmpyNK1r.iWEJO/CU96h7b95VjYCC5Msw.lGdn8G');
+VALUES ('danièle-atlan', 'Daniele', 'Atlan', 'danièle.atlan@example.com', '$2y$10$hv2m6oFnpMs6sZmpyNK1r.iWEJO/CU96h7b95VjYCC5Msw.lGdn8G');
 
 
 
